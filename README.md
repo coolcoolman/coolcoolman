@@ -16,6 +16,6 @@
 
 <br />
 
-<p align="right">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,docker,nginx,linux" />
 </p>
